@@ -1,0 +1,9 @@
+gitdb==4.0.11
+github==1.2.7
+GitPython==3.1.40
+google-ai-generativelanguage==0.4.0
+google-generativeai==0.3.2
+pypdf==4.2.0
+PyPDF2==3.0.1
+streamlit==1.29.0
+streamlit-float==0.3.5
